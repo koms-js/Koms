@@ -38,8 +38,6 @@
     <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/git.svg"></code>
     <br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=koms-js&show_icons=true&hide=['issues'])" alt="Kom's Github Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koms-js&layout=compact" alt="Kom's Github Stats" />
     <hr>
     <h4> <i> My Stats </i> </h4>
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=koms-js&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koms-js&theme=tokyonight&hide=batchfile">
