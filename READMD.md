@@ -41,7 +41,6 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=koms-js&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koms-js&theme=tokyonight&hide=batchfile">
     <br>
     <hr>
-    <table class="tg" style="undefined;table-layout: fixed; width: 381px">
     <colgroup>
     <col style="width: 110px">
     <col style="width: 116px">
