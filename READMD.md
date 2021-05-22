@@ -38,6 +38,7 @@
     <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/git.svg"></code>
     <br>
     <br>
+    <hr>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=koms-js&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koms-js&theme=tokyonight&hide=batchfile">
     <br>
     <hr>
