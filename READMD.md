@@ -40,7 +40,6 @@
     <br>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=koms-js&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koms-js&theme=tokyonight&hide=batchfile">
     <br>
-    <h4> <i> Current Projects </i> </h4>
     <hr>
     <table class="tg" style="undefined;table-layout: fixed; width: 381px">
     <colgroup>
