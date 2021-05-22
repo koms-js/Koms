@@ -41,35 +41,4 @@
     <hr>
     <h4> <i> My Stats </i> </h4>
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=koms-js&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koms-js&theme=tokyonight&hide=batchfile">
-    <br>
-    <br>
-    <hr>
-    <h4> <i> Current Projects </i> </h4>
-    <hr>
-    <table class="tg" style="undefined;table-layout: fixed; width: 381px">
-    <colgroup>
-    <col style="width: 110px">
-    <col style="width: 116px">
-    <col style="width: 155px">
-    </colgroup>
-    <thead>
-      <tr>
-        <th class="tg-0lax">Project Name<br></th>
-        <th class="tg-baqh">Project Links<br></th>
-        <th class="tg-0lax">Project Description<br></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="tg-0lax">More Coming Soon<br></td>
-        <td class="tg-0lax">More Coming Soon</td>
-        <td class="tg-0lax">More Coming Soon</td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">Aspen</td>
-        <td class="tg-0lax">Soon</td>
-        <td class="tg-0lax">A multi-purpose discord bot!<br></td>
-      </tr>
-    </tbody>
-    </table>
 </div>
