@@ -40,6 +40,7 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=koms-js&show_icons=true&hide=['issues'])" alt="Kom's Github Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koms-js&layout=compact" alt="Kom's Github Stats" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=deltacoderr&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaCoderr&theme=tokyonight&hide=batchfile">
     <br>
     <h4> <i> Current Projects </i> </h4>
     <hr>
