@@ -24,7 +24,7 @@
     <h4> Contact Me </h4>
     <img alt="", width="15px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg"> <i>Discord</i> - cyro#1000 (<strong>recommended</strong>)
     <br>
-    📫 <i>Email</i> - komsthedev.cf@gmail.com
+    📫 <i>Email</i> - tkoms.cf@gmail.com
     <br>
     <img alt="Kom's Twitter", width="15px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"> <i>Twitter</i> -     <a href="https://twitter.com/koms112">koms112</a>
     <hr>
