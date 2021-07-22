@@ -12,7 +12,7 @@
     <br>
     Hi, I'm Koms, a passionate self-taught developer from the United States of America.
     <br>
-    <i>Administrator at <a href="https://discord.gg/6PjemqbzKV" >Satellite ☄</a></i>
+    <i>Administrator at <a href="https://discord.com/channels/@me/855579024688414760/867733314944630785" >Satellite ☄</a></i>
     <br>
     <hr>
     <h4> Current Status </h4>
