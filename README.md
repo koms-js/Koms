@@ -18,7 +18,7 @@
     <h4> Current Status </h4>
     - 🔭 I’m currently working on <strong>NOTHING</strong><br>
     - 🌱 I’m currently learning <strong>Python</strong><br>
-    - 📫 Contact me <strong>on Discord at koms#9520</strong><br>
+    - 📫 Contact me <strong>on Discord at cyro#1000</strong><br>
     - ⚡ What i like to do IRL: <strong>Football & Skate</strong>
     <hr>
     <h4> Contact Me </h4>
