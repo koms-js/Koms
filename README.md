@@ -19,7 +19,7 @@
     - 🔭 I’m currently working on <strong>NOTHING</strong><br>
     - 🌱 I’m currently learning <strong>Python</strong><br>
     - 📫 Contact me <strong>on Discord at cyro#1000</strong><br>
-    - ⚡ What i like to do IRL: <strong>Football & Skate</strong>
+    - ⚡ What i like to do IRL: <strong>Football & Skateboarding</strong>
     <hr>
     <h4> Contact Me </h4>
     <img alt="", width="15px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg"> <i>Discord</i> - koms#9520 (<strong>recommended</strong>)
