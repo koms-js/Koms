@@ -16,6 +16,7 @@
     <br>
     <hr>
     <h4> Current Status </h4>
+    - 🧧 Age 14</strong>
     - 🔭 I’m currently working on <strong>NOTHING</strong><br>
     - 🌱 I’m currently learning <strong>Python</strong><br>
     - 📫 Contact me <strong>on Discord at cyro#1000</strong><br>
